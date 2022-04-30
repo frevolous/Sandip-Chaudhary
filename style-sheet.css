@@ -42,7 +42,7 @@ p {
   color: #00ADB5;
   float: right;
   line-height: 1;
-  text-align: right;
+  text-align: left;
   display: block;
   margin-right: 20%;
 }
@@ -56,8 +56,16 @@ align-topskill {
   padding-top: 100px;
 }
 
-.linkedin{
-width: 15px;
+.linkedin {
+  width: 15px;
+}
+
+.twitter {
+  width: 15px;
+}
+
+.Whatsapp {
+  width: 15px;
 }
 
 .sun {
@@ -107,7 +115,7 @@ width: 15px;
 }
 
 .site-manager {
-  width: 100px;
+  width: 110px;
   border-radius: 100%;
 }
 
@@ -145,6 +153,7 @@ a:hover {
   background-color: #E4EFE7;
   color: white;
   font-size: 0.75rem;
+  margin-top: 5%;
 }
 
 .copyright {
@@ -176,7 +185,10 @@ a:hover {
   border-top: solid #666666 0;
   border-right: solid #666666 20px;
   text-decoration: none;
-  margin: 20px;
+  margin: 20% auto 0 auto;
+  display: block;
+  position: relative;
+  width: 150px;
 }
 
 .btn:hover {
@@ -187,3 +199,4 @@ a:hover {
 .Home-button {
   width: 15px;
 }
+
