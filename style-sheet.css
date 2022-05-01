@@ -22,15 +22,8 @@ h1 {
   font-family: "MonteCarlo", "Neonderthaw", verdana, sans-serif;
   color: #00ADB5;
   font-size: 4rem;
-  line-height: 0.4;
+  line-height: 1;
   margin: 0 auto 0 auto;
-}
-
-h3 {
-  color: #00ADB5;
-  margin: 0 0 0 0;
-  font-family: "Comfortaa", serif;
-  line-height: 2;
 }
 
 p {
@@ -47,7 +40,7 @@ p {
   margin-right: 20%;
 }
 
-align-topskill {
+.align-topskill {
   font-family: "Comfortaa", serif;
   color: #00ADB5;
   text-align: center;
@@ -91,6 +84,8 @@ align-topskill {
   display: inline;
   font-family: monospace;
   color: #00ADB5;
+  line-height: 1;
+  font-size: 1rem;
 }
 
 .about-me {
@@ -135,11 +130,11 @@ a {
 }
 
 a:hover {
-  color: purple;
+  color: #00ADB5;
 }
 
 .header {
-  background-color: #CDF0EA;
+  background-color: transparent;
   margin: 0 0 0 0;
   color: WHite;
   width: 100%;
@@ -161,38 +156,26 @@ a:hover {
   width: 100%;
 }
 
+h3 {
+  color: #00ADB5;
+  margin: 50px 0 0 0;
+  font-family: "Comfortaa", serif;
+  line-height: 3;
+}
+
+.button {
+  margin: 300px 0 0 0;
+}
+
 .Email {
-  width: 12px;
+  width: 80px;
 }
 
 .btn {
-  background: #d634d9;
-  background-image: -webkit-linear-gradient(top, #d634d9, #2980b9);
-  background-image: -moz-linear-gradient(top, #d634d9, #2980b9);
-  background-image: -ms-linear-gradient(top, #d634d9, #2980b9);
-  background-image: -o-linear-gradient(top, #d634d9, #2980b9);
-  background-image: linear-gradient(to bottom, #d634d9, #2980b9);
-  -webkit-border-radius: 0;
-  -moz-border-radius: 0;
-  border-radius: 20px;
-  text-shadow: 1px 1px 3px #666666;
-  -webkit-box-shadow: 5px 8px 11px #666666;
-  -moz-box-shadow: 5px 8px 11px #666666;
-  box-shadow: 5px 8px 11px #666666;
-  font-family: Courier New;
-  color: #ffffff;
-  font-size: 21px;
-  border-top: solid #666666 0;
-  border-right: solid #666666 20px;
-  text-decoration: none;
-  margin: 20% auto 0 auto;
-  display: block;
-  position: relative;
-  width: 150px;
+  margin: 0 auto 0 auto;
 }
 
 .btn:hover {
-  background: #3ca1fa;
   text-decoration: none;
 }
 
