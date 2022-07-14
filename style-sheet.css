@@ -93,12 +93,12 @@ p {
 .top-skills {
   font-family: "Comfortaa", serif;
   color: #00ADB5;
-  float: right;
+/*   float: right; */
   line-height: 1.5;
   text-align: left;
   display: inline;
   margin-left: 20%;
-  margin-right: 10%;
+  margin-right: 20%;
 }
 
 .profile-pic {
