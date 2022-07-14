@@ -7,12 +7,12 @@ body {
 hr {
   border-style: none;
   border-style: dotted;
-  width: 25px;
-  border-spacing: 5;
+  width: 40px;
+  border-spacing: 10;
   border-width: thick;
   border-color: #DEFCF9;
   border-bottom: 0;
-  border-bottom: 10px;
+  border-top: 15px;
 }
 
 em {
@@ -96,7 +96,8 @@ p {
   line-height: 1.5;
   text-align: left;
   display: block;
-  margin-left: 20%;
+  margin-left: 25%;
+  margin-bottom: 15px;
 }
 
 .profile-pic {
@@ -182,6 +183,6 @@ h3 {
 }
 
 .Home-button {
-  width: 20px;
+  width: 25px;
 }
 
