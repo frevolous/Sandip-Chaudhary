@@ -7,11 +7,12 @@ body {
 hr {
   border-style: none;
   border-style: dotted;
-  width: 15px;
+  width: 25px;
   border-spacing: 5;
   border-width: thick;
   border-color: #DEFCF9;
   border-bottom: 0;
+  border-bottom: 10px;
 }
 
 em {
@@ -92,14 +93,14 @@ p {
   font-family: "Comfortaa", serif;
   color: #00ADB5;
   float: left;
-  line-height: 1;
+  line-height: 1.5;
   text-align: left;
   display: block;
   margin-left: 20%;
 }
 
 .profile-pic {
-  width: 100px;
+  width: 130px;
   margin: 0 0 0 0;
   border-radius: 100%;
 }
