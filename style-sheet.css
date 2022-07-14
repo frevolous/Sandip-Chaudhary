@@ -7,12 +7,11 @@ body {
 hr {
   border-style: none;
   border-style: dotted;
-  width: 40px;
-  border-spacing: 10;
+  width: 10px;
+  border-spacing: 5;
   border-width: thick;
   border-color: #DEFCF9;
   border-bottom: 0;
-  border-top: 15px;
 }
 
 em {
@@ -29,16 +28,6 @@ h1 {
 
 p {
   margin: 0 0 0 0;
-}
-
-.top-skills {
-  font-family: "Comfortaa", serif;
-  color: #00ADB5;
-  float: right;
-  line-height: 1;
-  text-align: left;
-  display: block;
-  margin-right: 20%;
 }
 
 .align-topskill {
@@ -92,16 +81,26 @@ p {
 .about-me {
   font-family: "Comfortaa", serif;
   color: #00ADB5;
-  float: left;
   line-height: 1.5;
-  text-align: left;
+  text-align: center;
   display: block;
-  margin-left: 25%;
+  margin-left: 20%;
+  margin-right: 20%;
   margin-bottom: 15px;
 }
 
+.top-skills {
+  font-family: "Comfortaa", serif;
+  color: #00ADB5;
+  float: right;
+  line-height: 1.5;
+  text-align: left;
+  display: block;
+  margin-right: 30%;
+}
+
 .profile-pic {
-  width: 130px;
+  width: 150px;
   margin: 0 0 0 0;
   border-radius: 100%;
 }
