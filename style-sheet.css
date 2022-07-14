@@ -31,14 +31,14 @@ p {
   margin: 0 0 0 0;
 }
 
-.align-topskill {
+/* .align-topskill {
   font-family: "Comfortaa", serif;
   color: #00ADB5;
   text-align: center;
   display: block;
   position: relative;
   padding-top: 100px;
-}
+} */
 
 .linkedin {
   width: 15px;
@@ -93,7 +93,7 @@ p {
 .top-skills {
   font-family: "Comfortaa", serif;
   color: #00ADB5;
-  float: left;
+  float: right;
   line-height: 1.5;
   text-align: left;
   display: block;
