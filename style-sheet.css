@@ -84,8 +84,8 @@ p {
   line-height: 1.5;
   text-align: center;
   display: block;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 15%;
+  margin-right: 15%;
   margin-bottom: 15px;
 }
 
@@ -96,24 +96,25 @@ p {
   line-height: 1.5;
   text-align: left;
   display: block;
+  margin-left: 10%;
   margin-right: 30%;
 }
 
 .profile-pic {
   width: 150px;
-  margin: 0 0 0 0;
+  margin: 0 0 15px 0;
   border-radius: 100%;
 }
 
 .computer {
-  width: 80px;
+  width: 90px;
   border-radius: 100%;
 }
 
-.site-manager {
+/* .site-manager {
   width: 110px;
   border-radius: 100%;
-}
+} */
 
 p:hover {
   text-rendering: geometricPrecision;
