@@ -8,10 +8,10 @@ hr {
   border-style: none;
   border-style: dotted;
   width: 15px;
-  border-spacing: 5;
+  border-spacing: 2rem;
   border-width: thick;
   border-color: #DEFCF9;
-  border-top: 15px;
+/*   border-top: 1px; */
   border-bottom: 0;
 }
 
