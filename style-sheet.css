@@ -7,8 +7,8 @@ body {
 hr {
   border-style: none;
   border-style: dotted;
-  width: 15px;
-  border-spacing: 2rem;
+  width: 25px;
+  border-spacing: 3rem;
   border-width: thick;
   border-color: #DEFCF9;
 /*   border-top: 1px; */
